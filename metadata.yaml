@@ -1,0 +1,48 @@
+_repo: The-South-Pole--an-account-of-the-Norwegian-Antarctic-expedition-in-the--Fram---1910-12---Volu__4229
+_version: 0.0.1
+alternative_title: Sydpolen. English
+contributor:
+  author_of_introduction:
+    agent_name: Nansen, Fridtjof
+    aliases:
+    - Nansen, Fridyof
+    - Nansen, Frityof
+    birthdate: 1861
+    deathdate: 1930
+    gutenberg_agent_id: '34437'
+    url: http://www.gutenberg.org/2009/agents/34437
+    wikipedia: http://en.wikipedia.org/wiki/Fridtjof_Nansen
+  translator:
+    agent_name: Chater, Arthur G.
+    alias: Chater, A. G. (Arthur G.)
+    gutenberg_agent_id: '1190'
+    url: http://www.gutenberg.org/2009/agents/1190
+creator:
+  author:
+    agent_name: Amundsen, Roald
+    aliases:
+    - Amundsen, Rual
+    - Amundsen, Roald Engelbregt Gravning
+    birthdate: 1872
+    deathdate: 1928
+    gutenberg_agent_id: '1189'
+    url: http://www.gutenberg.org/2009/agents/1189
+    wikipedia: http://en.wikipedia.org/wiki/Roald_Amundsen
+description: Translation of Sydpolen.
+gutenberg_issued: '2003-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4229'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'South Pole -- Discovery and exploration -- Norwegian'
+- !lcc 'G'
+- !lcsh 'Antarctica -- Discovery and exploration -- Norwegian'
+- !lcsh 'Amundsen, Roald, 1872-1928 -- Travel -- Antarctica'
+- GITenberg
+title: The South Pole; an account of the Norwegian Antarctic expedition in the "Fram,"
+  1910-12 — Volume 1 and Volume 2
+url: http://www.gutenberg.org/ebooks/4229
